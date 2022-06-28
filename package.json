@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Setting and combining env options in Cypress v10 example",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "cypress run"
   },
