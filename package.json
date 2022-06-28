@@ -1,0 +1,26 @@
+{
+  "name": "cypress-env-v10-example",
+  "version": "1.0.0",
+  "description": "Setting and combining env options in Cypress v10 example",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahmutov/cypress-env-v10-example.git"
+  },
+  "keywords": [
+    "cypress-example"
+  ],
+  "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bahmutov/cypress-env-v10-example/issues"
+  },
+  "homepage": "https://github.com/bahmutov/cypress-env-v10-example#readme",
+  "devDependencies": {
+    "cypress": "^10.3.0",
+    "prettier": "^2.7.1"
+  }
+}
